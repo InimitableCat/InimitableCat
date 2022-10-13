@@ -8,6 +8,9 @@ header{
 header img{
 	text-align: left;
 	border-radius: 150px;
+	width: 300px;
+	border: 20px;
+	border-color: lightpink;
 }
 header h1{
 	font-size: 30;
