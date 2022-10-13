@@ -7,14 +7,12 @@ header{
 }
 
 header h1{
-	font-size: 20;
-	font: cursive;
+	font-size: 30;
 	color: white;
 	text-align: center;
 }
 header p{
 	font-size: 15;
-	font: normal;
 	color: white;
 	text-align: center;
 }
@@ -23,14 +21,12 @@ main{
 	background-color: navy;
 }
 main h1{
-	font: cursive;
-	font-size: 20;
+	font-size: 30;
 	color: steelblue;
 	text-align: center;
 }
 main p{
-	font: normal;
-	font-size: 20;
+	font-size: 15;
 	color: powderblue;
 	text-align: center;
 }
@@ -38,13 +34,18 @@ main p{
 footer{
 	background-color: deeppink;
 }
+footer h1{
+	font-size: 30;
+	color: hotpink;
+	text-align: center;
+}
 footer h2{
-	font: cursive;
 	font-size: 20;
 	color: hotpink;
 	text-align: center;
 }
 footer p{
+	font-size: 15;
 	color: lightpink;
 	text-align: center;
 }
