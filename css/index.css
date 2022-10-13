@@ -23,18 +23,18 @@ main{
 main h1{
 	font: cursive;
 	font-size: 20;
-	color: darkblue;
+	color: steelblue;
 }
 main p{
 	font: normal;
 	font-size: 20;
-	color: aliceblue;
+	color: powderblue;
 }
 
 footer{
 	background-color: deeppink;
 }
-footer h1{
+footer h2{
 	font: cursive;
 	font-size: 20;
 	color: hotpink;
