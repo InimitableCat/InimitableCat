@@ -5,7 +5,10 @@ body{
 header{
 	background-color: black;
 }
-
+header img{
+	text-align: left;
+	border-radius: 150px;
+}
 header h1{
 	font-size: 30;
 	color: white;
