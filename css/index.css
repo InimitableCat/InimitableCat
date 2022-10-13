@@ -10,11 +10,13 @@ header h1{
 	font-size: 20;
 	font: cursive;
 	color: white;
+	text-align: center;
 }
 header p{
 	font-size: 15;
 	font: normal;
 	color: white;
+	text-align: center;
 }
 
 main{
@@ -24,11 +26,13 @@ main h1{
 	font: cursive;
 	font-size: 20;
 	color: steelblue;
+	text-align: center;
 }
 main p{
 	font: normal;
 	font-size: 20;
 	color: powderblue;
+	text-align: center;
 }
 
 footer{
@@ -38,7 +42,9 @@ footer h2{
 	font: cursive;
 	font-size: 20;
 	color: hotpink;
+	text-align: center;
 }
 footer p{
 	color: lightpink;
+	text-align: center;
 }
