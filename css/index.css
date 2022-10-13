@@ -1,0 +1,44 @@
+body{
+	margin: 0;
+}
+
+header{
+	background-color: black;
+}
+
+header h1{
+	font-size: 20;
+	font: cursive;
+	color: white;
+}
+header p{
+	font-size: 15;
+	font: normal;
+	color: white;
+}
+
+main{
+	background-color: navy;
+}
+main h1{
+	font: cursive;
+	font-size: 20;
+	color: darkblue;
+}
+main p{
+	font: normal;
+	font-size: 20;
+	color: aliceblue;
+}
+
+footer{
+	background-color: deeppink;
+}
+footer h1{
+	font: cursive;
+	font-size: 20;
+	color: hotpink;
+}
+footer p{
+	color: lightpink;
+}
