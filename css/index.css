@@ -1,53 +1,54 @@
 body{
 	margin: 0;
+	line-height: 30px;
+}
+header, main, footer{
+	max-width: 3000px;
+	margin: 0 auto;
+	padding: 20px 20px;
+}
+header{
+	background-color: royalblue;
 }
 h1, h2{
 	font-family: 'Dancing Script', cursive;
 }
-p{
-	font-family: 'Bebas Neue', cursive;
-}
-header{
-	background-color: black;
-	padding-top: 20px;
-	padding-bottom: 20px;
-	padding-left: 20px;
-	padding-right: 20px;
-}
+
 header img{
-	text-align: left;
-	border-radius: 150px;
+	max-width: 100%;
+	border-radius: 200px;
 	width: 300px;
-	border: 20px;
-	border-color: lightpink;
+	border: 1px solid royalblue;
 }
 header h1{
-	font-size: 30;
-	color: white;
-	text-align: center;
+	text-align: right;
 }
 header p{
-	font-size: 15;
-	color: white;
-	text-align: center;
+	text-align: right;
 }
 
 main{
-	background-color: navy;
+	background-color: mediumblue;
+}
+main img{
+	max-width: 100%;
+	border-radius: 200px;
+	width: 300px;
+	border: 1px solid skyblue;
 }
 main h1{
 	font-size: 30;
 	color: steelblue;
-	text-align: center;
+	text-align: left;
 }
 main p{
 	font-size: 15;
 	color: powderblue;
-	text-align: center;
+	text-align: left;
 }
 
 footer{
-	background-color: deeppink;
+	background-color: navy;
 }
 footer h1{
 	font-size: 30;
