@@ -2,6 +2,12 @@ body{
 	margin: 0;
 	line-height: 30px;
 }
+.box{
+	width: 400px;
+	padding: 5px;
+	border: solid 5px black;
+	box-sizing: border-box;
+}
 header, main, footer{
 	max-width: 3000px;
 	margin: 0 auto;
@@ -13,7 +19,16 @@ header{
 h1, h2{
 	font-family: 'Dancing Script', cursive;
 }
-
+h1{
+	font-size: 100px;
+	line-height: 80px;
+}
+h2{
+	font-size: 50px;
+}
+p{
+	font-size: 25;
+}
 header img{
 	max-width: 100%;
 	border-radius: 200px;
@@ -24,7 +39,7 @@ header h1{
 	text-align: right;
 }
 header p{
-	text-align: right;
+	text-align: left;
 }
 
 main{
@@ -58,10 +73,10 @@ footer h1{
 footer h2{
 	font-size: 20;
 	color: hotpink;
-	text-align: center;
+	text-align: left;
 }
 footer p{
 	font-size: 15;
 	color: lightpink;
-	text-align: center;
+	text-align: left;
 }
