@@ -2,6 +2,9 @@ body{
 	margin: 0;
 }
 h1, h2{
+	font-family: 'Dancing Script', cursive;
+}
+p{
 	font-family: 'Bebas Neue', cursive;
 }
 header{
